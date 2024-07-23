@@ -14,10 +14,3 @@ I am Makers alumni looking for my first role as a Full Stack Software Engineer. 
 | <a href="https://github.com/Illy-hans/MakerBnb"> MakersBnB </a> | A full stack E-commerce web app based on Airbnb, users can create an account, check availability and book a listing. | Python, Pytest, Flask, HTML, CSS, Playwright, PostGreSQL, Bcrypt, Postman|
 | <a href="https://github.com/Illy-hans/Booksy-backend"> Booksy(backend) </a> <a href="https://github.com/Illy-hans/Booksy-frontend"> Booksy(frontend) </a>| An E-commerce web app book selling service, users can create an account, search & favourite books, and complete checkout with Stripe. | Javascript, Node, React, Express, Clerk, Stripe, Vite, Jest, React Testing Library |
 
-<details>
-  <summary> Here are some of the languages I have worked on so far!</summary>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Illy-hans&layout=donut&theme=transparent&hide=css)](https://github.com/Illy-hans/github-readme-stats)
-
-</details>
