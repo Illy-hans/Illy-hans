@@ -2,7 +2,7 @@
 
 ## About me...
 
-I am Makers alumni looking for my first role as a Full Stack Software Engineer. My background in customer success has provided me with a deep understanding of user needs and the importance of effective solutions. This experience led me to transition into software engineering, driven by a passion for solving user problems. I am eager to leverage my technical skills and user-centric approach to contribute meaningfully to innovative software solutions. 
+I'm a Makers Academy alumni looking for my first role as a Full Stack Software Engineer. My background in customer success has provided me with a deep understanding of user needs and the importance of effective solutions. This experience led me to transition into software engineering, driven by a passion for solving user problems. I’m excited to roll up my sleeves, dive into the code, and use my technical know-how and love for user-friendly designs to create awesome and innovative software solutions!
 
 [GitHub CV](https://github.com/illy-hans/CV.) 📁
 
